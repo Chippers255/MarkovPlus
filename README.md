@@ -1,4 +1,4 @@
-MarkovPlus
-==========
+Markov
+======
 
-A learning text generation system
+A text generator in python using a Markov chain
